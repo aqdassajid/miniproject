@@ -1,1 +1,1 @@
-# miniproject
+# Snake Game for Java
